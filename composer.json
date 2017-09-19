@@ -1,0 +1,12 @@
+{
+    "name": "cornips/getlocalipjs",
+    "description": "Little JS to get local IP address",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Martijn Cornips",
+            "email": "development@cornips.nl"
+        }
+    ],
+    "require": {}
+}
