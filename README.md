@@ -10,7 +10,7 @@ With this little JS (only 847 bytes gzipped), borrowed from [Daniel Roesler](htt
 ## Installation
 
 ```
-npm install cornips/getlocalip
+npm install getlocalipjs
 ```
 
 ## Usage

@@ -1,5 +1,5 @@
 {
-  "name": "getlocalip",
+  "name": "getlocalipjs",
   "version": "1.0.0",
   "description": "Demo: https://cornips.github.io/getLocalIP",
   "main": "getlocalip.js",
