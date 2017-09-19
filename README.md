@@ -7,7 +7,13 @@ Demo: https://cornips.github.io/getLocalIP
 To identify clients in internal web systems it is sometimes useful to know its local IP address.
 With this little JS (only 847 bytes gzipped), borrowed from [Daniel Roesler](https://github.com/diafygi/webrtc-ips), you can do this.
 
-### Usage
+## Installation
+
+```
+npm install cornips/getlocalip
+```
+
+## Usage
 
 Just make sure you have the following code in your HTML at the bottom:
 ```html

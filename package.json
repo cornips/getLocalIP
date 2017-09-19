@@ -1,0 +1,19 @@
+{
+  "name": "getlocalip",
+  "version": "1.0.0",
+  "description": "Demo: https://cornips.github.io/getLocalIP",
+  "main": "getlocalip.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cornips/getLocalIP.git"
+  },
+  "author": "Martijn Cornips",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cornips/getLocalIP/issues"
+  },
+  "homepage": "https://github.com/cornips/getLocalIP#readme"
+}
