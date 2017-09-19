@@ -4,18 +4,12 @@
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     </head>
     <body>
-        <h4>
-            Original demo at:
-            <a href="https://diafygi.github.io/webrtc-ips/">
-                https://diafygi.github.io/webrtc-ips/
-            </a>
-        </h4>
         <p>
             <strong>Your local IP address:</strong>
             <span id="local-ip"></span>
         </p>
-        <iframe id="iframe" sandbox="allow-same-origin" style="display: none"></iframe>
-        <script src="getlocalip.js"></script>
+        <iframe id="iframe" sandbox="allow-same-origin" style="display:none"></iframe>
+        <script src="dist/getlocalip.min.js"></script>
         <script>
             //insert IP addresses into the page
             getLocalIP(function(ip){
